@@ -1,0 +1,2 @@
+use "model";
+centeroutbmp = ImportImageFromFile("Textures/Images/centerout.png", true);

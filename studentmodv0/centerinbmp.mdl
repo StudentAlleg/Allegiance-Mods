@@ -1,0 +1,2 @@
+use "model";
+centerinbmp = ImportImageFromFile("Textures/Images/centerin.png", true);

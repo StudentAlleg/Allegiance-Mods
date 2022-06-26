@@ -1,0 +1,2 @@
+use "model";
+directionbmp = ImportImageFromFile("Textures/Images/direction.png", true);

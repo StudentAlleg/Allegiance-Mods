@@ -1,0 +1,2 @@
+use "model";
+leadoutbmp = ImportImageFromFile("Textures/Images/leadout.png", true);

@@ -1,0 +1,2 @@
+use "model";
+leadinbmp = ImportImageFromFile("Textures/Images/leadin.png", true);
